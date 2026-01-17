@@ -15,7 +15,7 @@ Our webroot repo loads these submodules, plus claude.md and [vector_sync.yml](ht
 | [webroot](https://model.earth/webroot/) | [github.com/modelearth/webroot](https://github.com/modelearth/webroot) | PartnerTools webroot |
 | [cloud](../cloud/) | [github.com/modelearth/cloud](https://github.com/modelearth/cloud) | Flask for python colabs |
 | [chat](../chat/) | [github.com/modelearth/chat](https://github.com/modelearth/chat) | Chat UX |
-| [codechat-vectors](../codechat/) | [github.com/modelearth/codechat](https://github.com/modelearth/codechat-vectors) | Chat RAG using Voyager AI |
+| [codechat](../codechat/) | [github.com/modelearth/codechat](https://github.com/modelearth/codechat) | Chat RAG using Voyager AI |
 | [comparison](../comparison/) | [github.com/modelearth/comparison](https://github.com/modelearth/comparison) | Trade Flow data visualizations |
 | [exiobase](../exiobase/) | [github.com/modelearth/comparison](https://github.com/modelearth/exiobase) | Trade data to CSV and SQL |
 | [feed](../feed/) | [github.com/modelearth/feed](https://github.com/modelearth/feed) | FeedPlayer video/gallery |
