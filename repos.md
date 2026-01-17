@@ -1,4 +1,4 @@
-# ModelEarth Repositories
+# CodeChat
 
 [Earthscape chat dev](https://github.com/Earthscape/chat) - Our NextJS Vercel deployment parent repo. <!-- ananthpai1998 -->
 
