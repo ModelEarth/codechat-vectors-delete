@@ -1,4 +1,8 @@
-# CodeChat - Repository-Intelligent Code Search
+# CodeChat Vectors (Delete)
+
+Yash has created a new vector geneerator with Voyager AI within our [Earthscape/chat](https://github.com/earthscape/chat)
+
+## Repository-Intelligent Code Search
 
 AI-powered semantic search for code repositories using vector embeddings and LLM-based query understanding.
 
